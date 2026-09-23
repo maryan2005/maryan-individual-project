@@ -1,5 +1,5 @@
 # maryan-individual-project
-# My Workout Tracker
+# My Workout Tracker - LiftUp
 
 ## Project Description
 
